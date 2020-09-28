@@ -1,0 +1,9 @@
+{
+  "Employee": [
+    { "EmployeeID": 1, "FullName": "Aran", "EMPCode": "1001", "Mobile": "80123102831", "Position": "1" },
+    { "EmployeeID": 2, "FullName": "Aran", "EMPCode": "1002", "Mobile": "80123102845", "Position": "2" },
+    { "EmployeeID": 3, "FullName": "Aran", "EMPCode": "1003", "Mobile": "80123102865", "Position": "3" },
+    { "EmployeeID": 4, "FullName": "Aran", "EMPCode": "1004", "Mobile": "80123102834", "Position": "4" },
+    { "EmployeeID": 5, "FullName": "Aran", "EMPCode": "1005", "Mobile": "80123102864", "Position": "5" }
+  ]
+}
